@@ -1,5 +1,5 @@
 # [IJCAI'18] Behavioral Cloning from Observation
-An UNOFFICIAL PyTorch implementation of [BCO]((https://www.ijcai.org/proceedings/2018/0687.pdf))
+An UNOFFICIAL PyTorch implementation of [BCO](https://www.ijcai.org/proceedings/2018/0687.pdf)
 
 ## Requirements
 This code is implemented under Python3 and [PyTorch](https://pytorch.org/).
@@ -8,12 +8,27 @@ This code is implemented under Python3 and [PyTorch](https://pytorch.org/).
 + [MuJoCo](http://www.mujoco.org/)
 
 ## Usage
-+ Discrete action
++ Discrete action (CartPole, trained by DQN)
 ```
 model_bco-discrete.ipynb
 ```
 
-+ Continuous action
++ Continuous action (Reacher, trained by PPO)
 ```
 model_bco-continuous.ipynb
 ```
+
+## Citation
+```
+@inproceedings{liu2018preserving-gan,
+  author = {Faraz Torabi and Garrett Warnell and Peter Stone}, 
+  title = {Behavioral Cloning from Observation}, 
+  booktitle = {International Joint Conference on Artificial Intelligence (IJCAI)}, 
+  year = {2018} 
+}
+```
+
+## Acknowledgement
++ [OpenAI Baselines](https://github.com/openai/baselines)
++ [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
++ [Behavioral Cloning from Observation](https://www.ijcai.org/proceedings/2018/0687.pdf)
