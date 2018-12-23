@@ -8,4 +8,12 @@ This code is implemented under Python3 and [PyTorch](https://pytorch.org/).
 + [MuJoCo](http://www.mujoco.org/)
 
 ## Usage
++ Discrete action
+```
+model_bco-discrete.ipynb
+```
 
++ Continuous action
+```
+model_bco-continuous.ipynb
+```
