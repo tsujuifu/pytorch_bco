@@ -1,6 +1,8 @@
 # [IJCAI'18] Behavioral Cloning from Observation
 An UNOFFICIAL PyTorch implementation of [BCO](https://www.ijcai.org/proceedings/2018/0687.pdf)
 
+<img src='imgs/overview.png' width='65%' />
+
 ## Requirements
 This code is implemented under Python3 and [PyTorch](https://pytorch.org/).
 <br> Following libraries are also required:
