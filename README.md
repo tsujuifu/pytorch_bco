@@ -32,5 +32,5 @@ model_bco-continuous.ipynb
 
 ## Acknowledgement
 + [OpenAI Baselines](https://github.com/openai/baselines)
-+ [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
++ [pytorch_a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
 + [Behavioral Cloning from Observation](https://www.ijcai.org/proceedings/2018/0687.pdf)
