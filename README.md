@@ -22,7 +22,7 @@ model_bco-continuous.ipynb
 
 ## Citation
 ```
-@inproceedings{liu2018preserving-gan,
+@inproceedings{torabi2018bco,
   author = {Faraz Torabi and Garrett Warnell and Peter Stone}, 
   title = {Behavioral Cloning from Observation}, 
   booktitle = {International Joint Conference on Artificial Intelligence (IJCAI)}, 
