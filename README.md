@@ -24,7 +24,7 @@ model_bco-continuous.ipynb
 ```
 @inproceedings{torabi2018bco,
   author = {Faraz Torabi and Garrett Warnell and Peter Stone}, 
-  title = {Behavioral Cloning from Observation}, 
+  title = {{Behavioral Cloning from Observation}}, 
   booktitle = {International Joint Conference on Artificial Intelligence (IJCAI)}, 
   year = {2018} 
 }
